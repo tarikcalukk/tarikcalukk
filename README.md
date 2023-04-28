@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarik Caluk</h1>
-<h3 align="center">student at the department of Computer Science and Informatics at the Faculty of Electrical Engineering in Sarajevo</h3>
-img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1600/0*ZFVRrCKEokQ7_81X.gif"
+<h3 align="center">Student at the department of Computer Science and Informatics at the Faculty of Electrical Engineering in Sarajevo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarikcalukk&label=Profile%20views&color=0e75b6&style=flat" alt="tarikcalukk" /> </p>
 
